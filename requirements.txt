@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+numpy
+torch
+transformers
+jupyterlab  # If running in Jupyter Notebook
